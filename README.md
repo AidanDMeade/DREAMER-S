@@ -10,7 +10,8 @@ This repository contains the codes necessary to run the hyperparameter optimsiti
 
 1. We will use a training loop in BiospecML python module, install this module according to the instruction available at: `https://github.com/rafsanlab/BioSpecML`
 2. Install other dependencies and modules according to the paper (i.e Pytorch etc.)
-3. Clone this repo and run `python run.py`
+3. Clone this repo and download the chemical image data into `data/` folder.
+4. Run `python run.py`
 
 ### For custom training using your own data:
 
