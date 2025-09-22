@@ -23,7 +23,7 @@ If you have your own data, model, dataset class, training loop or even of you wi
 4.  Save all the dataframes and tensor `.pt` files in `metadata/` folder.
 5.  Edit `run.py` file for your custom parameter and set paths to the prepared files. Also set the label and filename column.
 6.  Run `python run.py`.
-7.  Training results will be in `results/` folder (will be generate later).
+7.  Training results will be in the `results/` folder (will be generated later).
 
 Suggested edits:
 
