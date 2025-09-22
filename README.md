@@ -32,3 +32,5 @@ Suggested edits:
 - Additonal hyperparameter (i.e weight decay, learning rate etc.)
 - Your own custom model architecture.
 - Your own `training_loop` with custom metrics i.e precision/recall
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17179431.svg)](https://doi.org/10.5281/zenodo.17179431)
