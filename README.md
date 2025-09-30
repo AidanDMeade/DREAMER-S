@@ -1,4 +1,4 @@
-# DREAMER-S: **D**eep Lea**R**ning-**E**nabled **A**ttention-based **M**ultiple-instance approaches with **E**xplainable **R**epresentations for **S**pectral-histopathology
+# DREAMER-S: **D**eep Lea**R**ning-**E**nabled **A**ttention-based **M**ultiple-instance approaches with **E**xplainable **R**epresentations for **S**patial Biology
 
 This repository contains the codes necessary to run the hyperparameter optimsition of a ResNet-inspired Linear MIL model (refer to the figure below). The pre-processing and explainable AI step are not included in this repository.
 
